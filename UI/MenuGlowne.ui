@@ -188,7 +188,7 @@ hr { height: 1px; border-width: 0; }
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt; font-style:italic;&quot;&gt;Skorzystaj z aplikacji &amp;quot;Helikopterowy Komiwojażer&amp;quot;, aby pomóc wszyskim potrzebującym w optymalny sposób!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
    </widget>
-   <widget class="QLabel" name="label">
+   <widget class="QLabel" name="helikopter">
     <property name="geometry">
      <rect>
       <x>70</x>
