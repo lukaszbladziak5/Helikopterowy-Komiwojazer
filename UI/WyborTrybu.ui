@@ -163,7 +163,7 @@ QPushButton:pressed {
      <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
     </property>
    </widget>
-   <widget class="QTextBrowser" name="textBrowser">
+   <widget class="QTextBrowser" name="tekstOpis">
     <property name="geometry">
      <rect>
       <x>420</x>
@@ -188,7 +188,7 @@ hr { height: 1px; border-width: 0; }
  </widget>
  <resources>
   <include location="zasoby.qrc"/>
-  <include location="../../../../../PycharmProjects/testing/venv/Lib/site-packages/PySide6/zasoby.qrc"/>
+  <include location="zasoby.qrc"/>
  </resources>
  <connections/>
 </ui>
