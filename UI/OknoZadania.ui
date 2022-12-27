@@ -38,12 +38,12 @@ QPushButton:pressed {
      <rect>
       <x>20</x>
       <y>30</y>
-      <width>201</width>
+      <width>231</width>
       <height>41</height>
      </rect>
     </property>
     <property name="text">
-     <string>Powrót do menu głównego</string>
+     <string>Powrót do ekranu początkowego</string>
     </property>
    </widget>
    <widget class="QLabel" name="tytulWybor">
